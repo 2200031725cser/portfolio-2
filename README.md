@@ -1,4 +1,4 @@
-#PORTFOLIO
+# PORTFOLIO
 
 
 https://portfolio-2-orpin-tau.vercel.app/
@@ -68,7 +68,6 @@ Your app will be available at: [http://localhost:5173]
 
 🖼️ Screenshots
 
-> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
 ><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c6c6b95f-0870-4951-b140-2496c098b3fd" />
 ><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/952bd261-8233-4d6f-9ba1-ad92512ea217" />
 ><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/051a71b0-2c19-4e17-a7a1-abe06d8fee8a" />

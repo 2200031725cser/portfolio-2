@@ -1,70 +1,92 @@
-# Getting Started with Create React App
+#PORTFOLIO
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+https://portfolio-2-orpin-tau.vercel.app/
+        
+## 📋 Table of Contents
 
-In the project directory, you can run:
+1. [Tech Stack](#-tech-stack)
+2. [Features](#-features)
+3. [Quick Start](#-quick-start)
+4. [Screenshots](#-screenshots)
+5. [Deployment](#-deployment)
 
-### `npm start`
+---
+## ⚙️ Tech Stack
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **React** – Component-based UI development
+* **Vite** – Lightning-fast build tool
+* **TailwindCSS** – Utility-first CSS for styling
+* **Lucide Icons** – Clean and beautiful icon pack
+* **Radix UI** – Accessible component primitives
+* **TypeScript (optional)** – Type safety and tooling
+* **GitHub & Vercel** – Deployment
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## ⚡️ Features
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* 🌑 **Light/Dark Mode Toggle**
+  Save theme preference in local storage with beautiful transitions
 
-### `npm run build`
+* 📱 **Responsive Navigation**
+  Desktop and mobile menus with glassmorphism
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+* 👨‍💻 **Hero & About Sections**
+  Showcase who you are with smooth intro animations and buttons
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+* 📊 **Skills Grid**
+  Filterable progress bars and categories with animated width
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+* 🖼️ **Projects Showcase**
+  Display screenshots, tech stacks, and GitHub/demo links
 
-### `npm run eject`
+* 📩 **Contact Section**
+  Social icons + responsive contact form with toast notifications
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+* 🚀 **One-Click Deployment**
+  Easily host your site with Vercel and GitHub
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 👌 Quick Start
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Prerequisites
 
-## Learn More
+* [Node.js](https://nodejs.org/)
+* [Git](https://git-scm.com/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Clone and Run
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+npm install
 
-### Code Splitting
+npm run dev
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Your app will be available at: [http://localhost:5173]
+(http://localhost:5173)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+🖼️ Screenshots
 
-### Making a Progressive Web App
+> 📸 Add screenshots of your Hero section, Projects grid, and Contact form here to show off your site.
+><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/c6c6b95f-0870-4951-b140-2496c098b3fd" />
+><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/952bd261-8233-4d6f-9ba1-ad92512ea217" />
+><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/051a71b0-2c19-4e17-a7a1-abe06d8fee8a" />
+><img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/145c309f-34da-4d62-b739-02e94e099686" />
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+☁️ Deployment
+
+### Deploy on Vercel
+
+1. Push your code to GitHub
+2. Go to [vercel.com](https://vercel.com)
+3. Import your repository
+4. Click **Deploy**
+
+Your live website will be hosted on a custom subdomain (e.g. `https://your-name.vercel.app`)

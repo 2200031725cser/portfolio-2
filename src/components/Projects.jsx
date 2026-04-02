@@ -93,16 +93,18 @@ export default function Projects() {
                   GitHub
                 </a>
 
-                <a
-                  href={p.demo}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="px-4 py-2 rounded-lg text-sm 
-                             bg-blue-500 text-white 
-                             hover:bg-blue-600 transition"
-                >
-                  Live Demo
-                </a>
+                {p.demo && (
+  <a
+    href={p.demo}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="px-4 py-2 rounded-lg text-sm 
+               bg-blue-500 text-white 
+               hover:bg-blue-600 transition"
+  >
+    Live Demo
+  </a>
+)}
 
               </div>
             </div>
